@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
-  image: self1.jpg
+  image: self2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Undergraduate</p>
@@ -19,20 +19,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi, there.  
+Hi, there.
 
-I am Jianli Zhao, an undergraduate student majoring in CS at Shandong University, under the supervision of [Prof. Bin Jiang](https://faculty.sdu.edu.cn/jiangbin).  
-
-
-
+I am Jianli Zhao, an undergraduate student majoring in CS at Shandong University, under the supervision of [Prof. Bin Jiang](https://faculty.sdu.edu.cn/jiangbin).
 
 ## Research Interest
 
 - Information Extraction
 - Large Language Model
-- Natural Language Processing  
-
-
+- Natural Language Processing
 
 ## Education
 
