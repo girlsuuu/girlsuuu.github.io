@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: personal website of Jacob # the website title (if blank, full name will be used instead)
-first_name: Zhao
+title: # the website title (if blank, full name will be used instead)
+first_name: Jianli
 middle_name:
-last_name: Jacob
+last_name: Zhao
 email: zhao78740@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
