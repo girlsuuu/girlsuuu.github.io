@@ -23,12 +23,12 @@ Hi, there.
 
 I am Jianli Zhao, an undergraduate student majoring in CS at Shandong University, under the supervision of [Prof. Bin Jiang](https://faculty.sdu.edu.cn/jiangbin).
 
-## Research Interest
+### Research Interest
 
 - Information Extraction
 - Large Language Model
 - Natural Language Processing
 
-## Education
+### Education
 
 - B.S. in Shandong University, 2021-2025
