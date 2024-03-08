@@ -13,7 +13,7 @@ nav_order: 1
 
 ---
 
-- **IPED: An Implicit Perspective for Relational Triple Extraction based on Diffusion Model** [[**PDF**](https://openreview.net/pdf?id=nYS35cd54ze)]  
-  **Jianli Zhao**, Changhao Xu and Bin. Jiang  
+- **IPED: An Implicit Perspective for Relational Triple Extraction based on Diffusion Model** [[**arXiv**](https://arxiv.org/abs/2403.00808)]  
+  **Jianli Zhao**, Changhao Xu and Bin Jiang  
   _NAACL 2024_  
   _(ARR rating: 3, 3.5, 4, meta 4)_

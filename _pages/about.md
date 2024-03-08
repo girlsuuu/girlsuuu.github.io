@@ -23,7 +23,7 @@ Hi, there.
 
 I am Jianli Zhao, an undergraduate junior majoring in CS at Shandong University, under the supervision of [Prof. Bin Jiang](https://faculty.sdu.edu.cn/jiangbin).
 
-My previous research primarily concentrated on Information Extraction, with a special emphasis on relational triple extraction using a table-filling strategy [[PDF](https://openreview.net/pdf?id=nYS35cd54ze)]. Now I am keen to transition my focus towards Large Language Models (LLMs) to delve into the broad capabilities of generative models. My interest involves exploring various techniques to enhance generative language models, including the training methodologies, architectural design, optimization strategies, evaluation methods, and inference efficiency. Additionally, building on my prior work, an unified framework of Synergized LLMs + KGs is also my appetite.
+My previous research primarily concentrated on Information Extraction, with a special emphasis on relational triple extraction using a table-filling strategy [[PDF](https://arxiv.org/pdf/2403.00808.pdf)]. Now I am keen to transition my focus towards Large Language Models (LLMs) to delve into the broad capabilities of generative models. My interest involves exploring various techniques to enhance generative language models, including the training methodologies, architectural design, optimization strategies, evaluation methods, and inference efficiency. Additionally, building on my prior work, an unified framework of Synergized LLMs + KGs is also my appetite.
 
 #### Research Interest
 
