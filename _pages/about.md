@@ -23,7 +23,7 @@ Hi, there.
 
 I am Jianli Zhao, an final-year undergraduate majoring in CS at Shandong University, under the supervision of [Prof. Bin Jiang](https://faculty.sdu.edu.cn/jiangbin). I am currently doing an internship at UCSD advised by [Prof. Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/). Exactly, I am also looking for a phd position for 2025.
 
-My previous research primarily concentrated on Information Extraction, with a special emphasis on relational triple extraction using a table-filling strategy [[PDF](https://arxiv.org/pdf/2403.00808.pdf)]. Now I am broadly keen on Large Language Models (LLMs), especially Trustworthiness of LLMs. My interests span from exploring the vulnerabilities of LLMs, including red-teaming, to evaluating their robustness, aiming to guarantee a more secure deployment.
+My previous research primarily concentrated on Information Extraction, with a special emphasis on relational triple extraction using a diffusion strategy [[PDF](https://arxiv.org/pdf/2403.00808.pdf)]. Now I am broadly keen on Large Language Models (LLMs), especially Trustworthiness of LLMs. My interests span from exploring the vulnerabilities of LLMs, including jailbreak, to evaluating their robustness, aiming to guarantee a more secure deployment.
 
 #### Research Interest
 
